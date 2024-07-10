@@ -1,9 +1,1 @@
-- Hi, I’m Deolian Domawa
-- I’m interested in circuit design and programming
-- I’m currently learning the basics of cybersecurity
-- I'm originally from the Philippines
-- I'm a Junior in computer engineering
-- I chose my major because I wanted to explore and learn skills that are applicable in both hardware and software, and find what interests me the most as a career
-- A fun fact about me is:  I like to read text-based interactive fiction books, and often mod them so I can make choices without the repercussions
-- What do I want to learn from EE 205?  An in-depth understanding of general programming, how to make proper comments, and how to properly and effectively communicate with others using technical terms, all-the-while learning what learning style fits me the best throughout the pressure
-- A book or movie I'd recommend is:  The Handmaiden movie
+
